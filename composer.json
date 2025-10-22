@@ -1,0 +1,38 @@
+{
+  "name": "exchangerateapinet/exchangerateapi-php",
+  "description": "PHP client for exchangerateapi.net (latest and historical endpoints)",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "ExchangeRateApi\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  },
+  "homepage": "https://exchangerateapi.net",
+  "support": {
+    "issues": "https://github.com/exchangerateapinet/exchangerateapi-php/issues",
+    "source": "https://github.com/exchangerateapinet/exchangerateapi-php"
+  }
+}
+{
+  "name": "exchangerateapinet/exchangerateapi-php",
+  "description": "PHP client for exchangerateapi.net (latest and historical endpoints)",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "ExchangeRateApi\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  },
+  "homepage": "https://exchangerateapi.net",
+  "support": {
+    "issues": "https://github.com/exchangerateapinet/exchangerateapi-php/issues",
+    "source": "https://github.com/exchangerateapinet/exchangerateapi-php"
+  }
+}
